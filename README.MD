@@ -13,7 +13,7 @@ To launch the dashboard:
 
 
 
-![preview](/img1.png)
-![preview](/img2.png)
-![preview](/img3.png)
-![preview](/img4.png)
+![preview](app/assets/img1.png)
+![preview](app/assets/img2.png)
+![preview](app/assets/img3.png)
+![preview](app/assets/img4.png)
