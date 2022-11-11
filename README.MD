@@ -1,3 +1,7 @@
+Flask factory template
+
+Template to build a portal containing multiple flask web application.
+
 When adding a new application, 
 you need to add first your application to Dashapps, 
 then add the link in the index. and navbar, and also add it to the routing.
