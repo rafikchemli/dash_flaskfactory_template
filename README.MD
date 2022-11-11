@@ -15,7 +15,7 @@ To launch the dashboard:
 2. type in terminal: 'sh run.sh'
 3. you can change the sh script to modify launch with nohup or not
 
-Here are some examples of flask apps in a single portal, built using this type of framework.
+Here are some examples of flask apps I built in a single portal, built using this type of framework.
 
 
 ![preview](app/assets/img1.png)
